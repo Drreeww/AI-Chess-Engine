@@ -1,0 +1,10 @@
+[Event "Example"]
+[Site "Laptop"]
+[Date "2019-12-09"]
+[Round "1"]
+[White "Stockfish"]
+[Black "Dumb AI"]
+[Result "1-0"]
+
+1-0
+
